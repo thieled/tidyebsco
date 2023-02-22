@@ -1,5 +1,4 @@
 
-
 #' Filter list elements by name
 #'
 #' This function filters a named list by the elements with names matching a given character vector.
