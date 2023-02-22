@@ -1,4 +1,7 @@
 ^tidyebsco\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+<<<<<<< HEAD
 ^README\.Rmd$
+=======
+>>>>>>> 12632cbf4793c9700ef25c0f261df142061ee917
