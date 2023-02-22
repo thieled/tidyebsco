@@ -1,12 +1,11 @@
 Package: tidyebsco
-Title: What the Package Does (One Line, Title Case)
+Title: Tidy EBSCO xml exports
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Daniel", "Thiele", , "daniel.thiele@fu-berlin.de", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-0324-4943"))
+Description: Tidy xml files exported from EBSCOhost.
+License: CC0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
@@ -15,6 +14,7 @@ Imports:
     magrittr,
     purrr,
     tibble,
+    tidyr,
     utils,
     XML,
     xml2
