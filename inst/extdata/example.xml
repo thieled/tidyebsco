@@ -1,0 +1,565 @@
+<records>
+<rec resultID="1">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="157531987">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>El Profesional de la Información</jtl>
+        <issn>13866710</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="05" day="01">may/jun2022</dt>
+        <vid>31</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.3145/epi.2022.may.10</ui>
+        <ppf>1</ppf>
+        <ppct>16</ppct>
+        <formats>
+          <fmt type="PDF" size="4.5MB" />
+        </formats>
+        <tig>
+          <atl>Astroturfing as a strategy for manipulating public opinion on Twitter during the pandemic in Spain.</atl>
+        </tig>
+        <aug>
+          <au>Arce-García, Sergio</au>
+          <au>Said-Hung, Elías</au>
+          <au>Mottareale, Daría</au>
+          <affil>Universidad Internacional de La Rioja Escuela Superior de Ingeniería y Tecnología (ESIT) Avda. de la Paz, 137 26006 Logroño, Spain</affil>
+          <affil>Universidad Internacional de La Rioja Facultad de Educación Avda. de la Paz, 137 26006 Logroño, Spain</affil>
+        </aug>
+        <sug>
+          <subj type="thes">COVID-19 pandemic</subj>
+          <subj type="thes">DIGITAL communications</subj>
+          <subj type="thes">TEXT mining</subj>
+          <subj type="thes">PANDEMICS</subj>
+          <subj type="thes">DISINFORMATION</subj>
+          <subj type="thes">PUBLIC opinion</subj>
+          <subj type="geo">SPAIN</subj>
+          <subj type="geo">PHILIPPINES</subj>
+          <subj type="corp">TWITTER Inc.</subj>
+        </sug>
+        <ab>This work aims to establish whether astroturfing was used during the Covid-19 pandemic to manipulate Spanish public opinion through Twitter. This study analyzes tweets published in Spanish and geolocated in the Philippines, and its first objective is to determine the existence of an organized network that directs its messages mainly towards Spain. To determine the non-existence of a random network, a preliminary collection of 1,496,596 tweets was carried out. After determining its 14 main clusters, 280 users with a medium-low profile of participation and micro- and nano-influencer traits were randomly selected and followed for 103 days, for a total of 309,947 tweets. Network science, text mining, sentiment and emotion, and bot probability analyses were performed using Gephi and R. Their network structure suggests an ultra-small-world phenomenon, which would determine the existence of a possible organized network that tries not to be easily identifiable. The data analyzed confirm a digital communication scenario in which astroturfing is used as a strategy aimed at manipulating public opinion through non-influencers (cybertroops). These users create and disseminate content with proximity and closeness to different groups of public opinion, mixing topics of general interest with disinformation or polarized content.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=157531987&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="2">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="158100608">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Revista Internacional de Relaciones Públicas</jtl>
+        <issn>21743681</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="01" day="01">ene-jun2022</dt>
+        <vid>12</vid>
+        <iid>23</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.5783/RIRP-23-2022-05-73-92</ui>
+        <ppf>73</ppf>
+        <ppct>20</ppct>
+        <formats>
+          <fmt type="PDF" size="4.5MB" />
+        </formats>
+        <tig>
+          <atl>Relações Públicas e Astroturfing na perspectiva relacional.</atl>
+        </tig>
+        <aug>
+          <au>de Oliveira Giovanelli, Leticia</au>
+          <au>Milano Pérsigo, Patrícia</au>
+          <affil>Universidade Federal de Santa Maria (UFSM), Brasil</affil>
+        </aug>
+        <sug>
+          <subj type="thes">PUBLIC relations</subj>
+          <subj type="thes">PUBLIC opinion</subj>
+          <subj type="thes">STRATEGIC communication</subj>
+          <subj type="thes">ORGANIZATIONAL ethics</subj>
+          <subj type="thes">SOCIAL perception</subj>
+          <subj type="thes">SOCIAL institutions</subj>
+          <subj type="thes">ORGANIZATIONAL goals</subj>
+          <subj type="corp">MONSANTO Co.</subj>
+          <subj type="naics">Public Relations Agencies</subj>
+        </sug>
+        <ab>The public relations activity is defined as an area of strategic communication which acts on building mutually beneficial relationships between organizations and their audiences. Constant social transformations have an impact on the social perception of different themes, which in turn also directly affects the positioning of organizations. In this scenario, we discuss the term "astroturfing" and its similarities and/or differences concerning public relations based on a relational perspective of communication. This article is characterized as an exploratory research based on a bibliographic analysis. The object of study is astroturfing in the context of public relations; therefore, a qualitative approach has been used. We observed that the extreme usage of digital social networks has contributed to numerous scenarios of misinformation which, therefore, end up encouraging deceptive or simulated practices arising from different social institutions. Thus, it is in such a context that the practice of astroturfing can be seen. This practice emerged in the 1980s in the United States during an election campaign in which there were disputes for a favourable public opinion. The term is an analogy to the word "grassroots, that is, how spontaneous popular manifestations are known in the US, and AstroTurf is a brand of artificial grass created by Monsanto in the 1960s, which is famous for its similarity to the appearance of real grass" (Silva, 2013: 14). The phenomenon can be seen as the creation of public manifestations by an audience that does not exist in order to achieve a favourable scenario for organizational objectives. In a practical way, communication processes can act as astroturfing drivers, thus contributing to the emergence of artificial contexts. In this article, we investigate the communication process by reflecting on the importance of the PR professional who looks at the public from a relational perspective. The connection of such a phenomenon with the field of public relations derives from the practices of international agencies that have subtly used astroturfing to achieve the goals of their clients in such a way that organizational ethics committees do not clearly perceive it. This is one of the aspects that leads professionals in the area to question what would or would not be ethical. Public relations, as an expression of strategic communication, has the ability to observe scenarios, mobilize forces and elaborate narratives that enable the construction of an organizational image and reputation. Perhaps an adequate translation of these strategic efforts is to recognize the connections among public relations, its audiences and the public opinion. In this scenario, there are ample information flows from the mediatized context that sometimes can create gaps for the practice of astroturfing. We understand that the phenomenon is consolidated as a contemporary challenge in the market, mainly in communication. Therefore, we highlight on how the ethical dimensions of public relations permeate the purpose of balance and harmony of interests. It is urgent to act, not only for the aesthetics but also for the ethics of the profession, in favour of the strengthening of the subjects and, consequently, the quality of the established social relations.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="por">Portuguese</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=158100608&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="3">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="155872456">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Scientific Reports</jtl>
+        <issn>20452322</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="03" day="17">3/17/2022</dt>
+        <vid>12</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1038/s41598-022-08404-9</ui>
+        <ppf>1</ppf>
+        <ppct>10</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="3.6MB" />
+        </formats>
+        <tig>
+          <atl>Coordination patterns reveal online political astroturfing across the world.</atl>
+        </tig>
+        <aug>
+          <au>Schoch, David</au>
+          <au>Keller, Franziska B.</au>
+          <au>Stier, Sebastian</au>
+          <au>Yang, JungHwan</au>
+          <affil>GESIS – Leibniz Institute for the Social Sciences, Cologne, Germany</affil>
+          <affil>University of Bern, Bern, Switzerland</affil>
+          <affil>University of Illinois at Urbana-Champaign, Champaign, USA</affil>
+        </aug>
+        <sug>
+          <subj type="thes">PUBLIC service advertising</subj>
+          <subj type="thes">SOCIAL media</subj>
+          <subj type="thes">BUREAUCRACY</subj>
+          <subj type="corp">TWITTER Inc.</subj>
+        </sug>
+        <ab>Online political astroturfing—hidden information campaigns in which a political actor mimics genuine citizen behavior by incentivizing agents to spread information online—has become prevalent on social media. Such inauthentic information campaigns threaten to undermine the Internet's promise to more equitable participation in public debates. We argue that the logic of social behavior within the campaign bureaucracy and principal–agent problems lead to detectable activity patterns among the campaign's social media accounts. Our analysis uses a network-based methodology to identify such coordination patterns in all campaigns contained in the largest publicly available database on astroturfing published by Twitter. On average, 74% of the involved accounts in each campaign engaged in a simple form of coordination that we call co-tweeting and co-retweeting. Comparing the astroturfing accounts to various systematically constructed comparison samples, we show that the same behavior is negligible among the accounts of regular users that the campaigns try to mimic. As its main substantive contribution, the paper demonstrates that online political astroturfing consistently leaves similar traces of coordination, even across diverse political and country contexts and different time periods. The presented methodology is a reliable first step for detecting astroturfing campaigns.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=155872456&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="4">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="156467811">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Political Psychology</jtl>
+        <issn>0162895X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="06" day="01">Jun2022</dt>
+        <vid>43</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/pops.12767</ui>
+        <ppf>399</ppf>
+        <ppct>20</ppct>
+        <formats />
+        <tig>
+          <atl>Forged Examples as Disinformation: The Biasing Effects of Political Astroturfing Comments on Public Opinion Perceptions and How to Prevent Them.</atl>
+        </tig>
+        <aug>
+          <au>Zerback, Thomas</au>
+          <au>Töpfl, Florian</au>
+          <affil>University of Zurich</affil>
+          <affil>University of Passau</affil>
+        </aug>
+        <sug>
+          <subj type="thes">PUBLIC opinion</subj>
+          <subj type="thes">UNITED States presidential election, 2016</subj>
+          <subj type="thes">DISINFORMATION</subj>
+          <subj type="thes">ONLINE comments</subj>
+          <subj type="thes">INTELLIGENCE officers</subj>
+          <subj type="geo">RUSSIA</subj>
+          <subj type="person">SKRIPAL, Sergei, 1951-</subj>
+        </sug>
+        <ab>Online astroturfing is a novel form of disinformation that relies on the imitation of citizen voices to create the false impression that a particular view or idea has widespread support in society. In this study, we test if political online astroturfing messages (i.e., forged user comments beneath digital news items) can influence perceptions of public opinion on three issues: the poisoning of the former Russian intelligence officer Sergei Skripal, the use of toxic gas by Russia's close ally Syria, and the manipulation of the 2016 U.S. presidential election. We further examine the immunizing effects of three inoculation strategies to prevent the distorting effects of online astroturfing comments. Our results indicate that only a few astroturfing comments can bias readers' perceptions of public opinion in the intended direction. Moreover, prior inoculation only provides limited protection against this effect. Only one inoculation strategy (refutational‐same) proved to be effective, but even this effect is only short‐term. Our findings indicate that recent fears about the potentially negative effects of this novel form of disinformation on political discourse are justified and underscore the difficulties of responding to this challenge.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=156467811&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="5">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="160969660">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Tapuya: Latin American Science, Technology &amp; Society</jtl>
+        <issn>25729861</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="12" day="01">Dec2022</dt>
+        <vid>5</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1080/25729861.2022.2035935</ui>
+        <ppf>1</ppf>
+        <ppct>18</ppct>
+        <formats />
+        <tig>
+          <atl>Coordinated campaigns on Twitter during the coronavirus health crisis in Mexico.</atl>
+        </tig>
+        <aug>
+          <au>Piña-García, C. A.</au>
+          <au>Espinoza, A.</au>
+          <affil>Laboratorio para el Análisis de Información Generada a través de las Redes Sociales en Internet (LARSI), Centro de Estudios de Opinión y Análisis, Universidad Veracruzana, Xalapa, México</affil>
+          <affil>Colegio de Estudios Avanzados de Iberoamérica, Xalapa, México</affil>
+        </aug>
+        <sug>
+          <subj type="thes">COVID-19 pandemic</subj>
+          <subj type="thes">PUBLIC opinion</subj>
+          <subj type="thes">SOCIAL perception</subj>
+          <subj type="thes">SOCIAL influence</subj>
+          <subj type="thes">PROPAGANDA</subj>
+          <subj type="thes">CRISIS communication</subj>
+          <subj type="thes">VIRTUAL communities</subj>
+          <subj type="thes">CRISIS management</subj>
+          <subj type="geo">MEXICO</subj>
+          <subj type="corp">TWITTER Inc.</subj>
+          <subj type="naics">Other Justice, Public Order, and Safety Activities</subj>
+          <subj type="naics">Internet Publishing and Broadcasting and Web Search Portals</subj>
+        </sug>
+        <ab>Social media is fast becoming a key instrument to manipulate or influence social perception. Digital platforms are having a serious effect on the manipulation of public opinion through the spread of political propaganda and message amplification via coordinated campaigns. As one of the most used social platforms among politicians and democratic governments, Twitter plays a critical role in how information flows through trending topics. The main purpose of this study is to explore how coordinated campaigns, in this case astroturfing, were used to influence and manipulate public opinion during the coronavirus health crisis in Mexico. Our research provides new insights into the early detection of astroturfing and artificial amplification, in order to expose the efforts to manipulate online discourse in Mexico. In the pages that follow, it will be argued that Mexico is currently experiencing online manipulation through malicious strategies that may threaten its democracy. The following hashtags were used to explore and compare our approach in Mexico: #GatellOrgulloMexicano (Gatell Mexican Pride) and #AMLOPresidenteDeLaSalud (AMLO President of Health). This study intends to build awareness and to improve the public's understanding coordinated behavior on Twitter.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=160969660&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="6">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="157538023">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Philosophy &amp; Social Criticism</jtl>
+        <issn>01914537</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="06" day="16">Jun2022</dt>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1177/01914537221108467</ui>
+        <ppf>1</ppf>
+        <formats />
+        <tig>
+          <atl>Online astroturfing: A problem beyond disinformation.</atl>
+        </tig>
+        <aug>
+          <au>Chan, Jovy</au>
+        </aug>
+        <sug />
+        <ab>Coordinated inauthentic behaviours online are becoming a more serious problem throughout the world. One common type of manipulative behaviour is astroturfing. It happens when an entity artificially creates an impression of widespread support for a product, policy, or concept, when in reality only limited support exists. Online astroturfing is often considered to be just like any other coordinated inauthentic behaviour; with considerable discussion focusing on how it aggravates the spread of fake news and disinformation. This paper shows that astroturfing creates additional problems for social media platforms and the online environment in general. The practice of astroturfing exploits our natural tendency to conform to what the crowd does; and because of the importance of conformity in our decision-making process, the negative consequences brought about by astroturfing can be much more far-reaching and alarming than just the spread of disinformation.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=157538023&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="7">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="161758632">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Behavioral &amp; Brain Sciences</jtl>
+        <issn>0140525X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="01" day="01">2022</dt>
+        <vid>45</vid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1017/S0140525X21001448</ui>
+        <ppf>1</ppf>
+        <ppct>2</ppct>
+        <formats />
+        <tig>
+          <atl>Shadow banning, astroturfing, catfishing, and other online conflicts where beliefs about group membership diverge.</atl>
+        </tig>
+        <aug>
+          <au>Suchow, Jordan W.</au>
+          <affil>School of Business, Stevens Institute of Technology, Hoboken, NJ   07030, USA</affil>
+        </aug>
+        <sug>
+          <subj type="thes">VIRTUAL communities</subj>
+          <subj type="thes">INTERSUBJECTIVITY</subj>
+          <subj type="naics">Internet Publishing and Broadcasting and Web Search Portals</subj>
+        </sug>
+        <ab>Drawing from conflicts observed in online communities (e.g., astroturfing and shadow banning), I extend Pietraszewski's theory to accommodate phenomena dependent on the intersubjectivity of groups, where representations of group membership (or beliefs about group membership) diverge. Doing so requires enriching representations to include other agents and their beliefs in a process of recursive mentalizing.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=161758632&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="8">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="161215823">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Revista Española de Investigaciones Sociologicas</jtl>
+        <issn>02105233</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2023" month="01" day="01">jan-mar2023</dt>
+        <iid>181</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.5477/cis/reis.181.61</ui>
+        <ppf>61</ppf>
+        <ppct>38</ppct>
+        <formats>
+          <fmt type="PDF" size="3MB" />
+        </formats>
+        <tig>
+          <atl>The Presence of Political Bots on Twitter during the COVID-19 Crisis in Spain.</atl>
+        </tig>
+        <aug>
+          <au>Martínez Torralba, Ángela</au>
+          <au>Guevara Gil, Juan Antonio</au>
+          <au>Jiménez de la Fuente, Aitor</au>
+          <affil>Universidad Complutense de Madrid.</affil>
+        </aug>
+        <sug>
+          <subj type="thes">COVID-19 pandemic</subj>
+          <subj type="thes">CONFINEMENT farms</subj>
+          <subj type="thes">SOCIAL networks</subj>
+          <subj type="thes">ARTIFICIAL intelligence</subj>
+          <subj type="thes">POLITICAL campaigns</subj>
+          <subj type="naics">Other Individual and Family Services</subj>
+        </sug>
+        <ab>The crisis caused by the COVID-19 pandemic has led to the decree of the State of Alarm in Spain and a severe home confinement that was softened in phases of de-escalation. During this period, social networks were used as a discussion tool. With this research we intend to find out if artificial intelligence tools were used in the political debate on Twitter. To achieve this, algorithms that determine the presence of bots in the conversation, their communicative roles and their relationship with the main political parties were applied. The results show that disinformation campaigns were created by bots with the aim of manipulating public opinion.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=161215823&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="9">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="161228288">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Social Science Computer Review</jtl>
+        <issn>08944393</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2023" month="02" day="01">Feb2023</dt>
+        <vid>41</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1177/08944393211034991</ui>
+        <ppf>181</ppf>
+        <ppct>20</ppct>
+        <formats />
+        <tig>
+          <atl>Automation on Twitter: Measuring the Effectiveness of Approaches to Bot Detection.</atl>
+        </tig>
+        <aug>
+          <au>Beatson, Oliver</au>
+          <au>Gibson, Rachel</au>
+          <au>Cunill, Marta Cantijoch</au>
+          <au>Elliot, Mark</au>
+          <affil>University of Manchester, United Kingdom</affil>
+        </aug>
+        <sug>
+          <subj type="thes">TRUST</subj>
+          <subj type="thes">SOCIAL media</subj>
+          <subj type="thes">MASS media &amp; politics</subj>
+          <subj type="thes">AUTOMATION</subj>
+          <subj type="corp">TWITTER Inc.</subj>
+        </sug>
+        <ab>The effectiveness of approaches to bot detection varies, with real-time detection being almost impossible. As a result, this article argues that the general Twitter using public cannot be expected to judge which accounts are bots with certainty and therefore do not know to what extent they are being manipulated online. In this article, the challenge of detecting bots and fake accounts is demonstrated by constructing two distinct methods to bot detection. The first method takes a fixed criteria-based approach, by building on commonly cited identifiers for bots. The second method takes a more flexible, investigative approach in order to uncover bots involved in coordinated efforts to influence online debates. As well as profiling the specific mechanics of how each one operates, we argue that they can be compared against an evaluative framework that specifies a set of key criteria that bot detection methods should meet in order to perform. Here, we identify four key criteria on which these methods can be evaluated and then examine how they perform in terms of the key criteria of accuracy. The results of these methods are then compared and cross-checked against an existing and widely used bot detection service. The findings show that different bot detection methods can present significantly different results and that only confirmation from Twitter, through suspensions or announcements, can truly allow users to know whether an account is a bot or not. We argue that this development could have a significant effect on the level of trust that social media users have both in the information they receive through social media and also in the political process.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=161228288&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="10">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="156312284">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>New Media &amp; Society</jtl>
+        <issn>14614448</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="04" day="14">Apr2022</dt>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1177/14614448221088274</ui>
+        <ppf>1</ppf>
+        <formats />
+        <tig>
+          <atl>Memetic persuasion: and WhatsAppification in Indonesia’s 2019 presidential election.</atl>
+        </tig>
+        <aug>
+          <au>Baulch, Emma</au>
+          <au>Matamoros-Fernández, Ariadna</au>
+          <au>Suwana, Fiona</au>
+          <affil>Monash University Malaysia, Malaysia</affil>
+          <affil>Queensland University of Technology, Australia</affil>
+          <affil>University of Sydney, Australia</affil>
+        </aug>
+        <sug />
+        <ab>This article examines the interplay between the creation of ‘meme factories’ by political elites, and their operationalisation through WhatsApp. It uses the case study of Indonesian President Joko Widodo’s (Jokowi’s) bid for re-election in 2019 to argue that political elites are leveraging meme culture’s association with popular voice to ‘astroturf’ public discourse, and that WhatsApp’s unique infrastructure advances that project. Drawing on interview data, we offer a holistic picture of the processes and structures implicated in this instance of astroturfing, with a focus on how WhatsApp is positioned within them. The authors’ access to campaigners affords a rare inside view of these processes and structures, and contributes to a growing body of work on the WhatsAppification of election campaigns globally. In addition, the article builds on scholarship on social media election campaigning in Indonesia by drawing attention to the role WhatsApp’s unique features play in surreptitiously influencing public discourse.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=156312284&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="11">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="154617802">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Ecological Economics</jtl>
+        <issn>09218009</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="03" day="01">Mar2022</dt>
+        <vid>193</vid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.ecolecon.2021.107307</ui>
+        <ppf>N.PAG</ppf>
+        <ppct>1</ppct>
+        <formats />
+        <tig>
+          <atl>Changing the world with words? Euphemisms in climate change issues.</atl>
+        </tig>
+        <aug>
+          <au>Grolleau, Gilles</au>
+          <au>Mzoughi, Naoufel</au>
+          <au>Peterson, Deborah</au>
+          <au>Tendero, Marjorie</au>
+          <affil>ESSCA School of Management, France</affil>
+          <affil>CEE-M, Univ. Montpellier, CNRS, INRAE, Institut Agro, Montpellier, France</affil>
+          <affil>INRAE, ECODEVELOPPEMENT, Avignon, France</affil>
+          <affil>Crawford School of Public Policy – Australian National University, Australia</affil>
+        </aug>
+        <sug>
+          <subj type="thes">EUPHEMISM</subj>
+          <subj type="thes">CLIMATE change mitigation</subj>
+          <subj type="thes">VOCABULARY</subj>
+        </sug>
+        <ab>Words matter when talking about climate change. They influence thinking and ultimately behaviors. We contend that certain kinds of words frequently used in climate change communication, namely euphemisms, can undermine the objectives of raising climate change awareness and changing behaviors to reduce emissions. We characterize euphemisms related to climate change issues and show how they are often manipulated to serve vested interests opposing climate change action. In particular, we highlight euphemistic names of astroturfing organizations that aim to persuade consumers or citizens. We conclude by suggesting some practical ways to prevent or avoid detrimental consequences associated with euphemisms and draw several policy implications.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=154617802&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="12">
+  <header shortDbName="asn" longDbName="Academic Search Ultimate" uiTerm="157352335">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>New Media &amp; Society</jtl>
+        <issn>14614448</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="06" day="11">Jun2022</dt>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1177/14614448221099170</ui>
+        <ppf>1</ppf>
+        <formats />
+        <tig>
+          <atl>Fake thumbs in play: A large-scale exploration of false amplification and false diminution in online news comment spaces.</atl>
+        </tig>
+        <aug>
+          <au>Kwon, K Hazel</au>
+          <au>Lee, Mi Hyun</au>
+          <au>Pil Han, Sang</au>
+          <au>Park, Sungho</au>
+          <affil>Arizona State University, USA</affil>
+          <affil>Northwestern University, USA</affil>
+          <affil>Seoul National University, Republic of Korea</affil>
+        </aug>
+        <sug />
+        <ab>This study explores how disinformation can dampen general users’ expressions of opinion online. In the context of a proven disinformation case in South Korea, this study analyzes externally validated click-logs of 1389 fake accounts and more than a million logs of 45,769 general users in a highly popular web portal. Findings show that the inflated visibility of anti-governmental opinions in the manipulated comment space was incongruent with the overall political tone that general users had spontaneously encountered from the broader media ecosystem beyond the manipulated space. Subsequently, this opinion “climate” incongruence decreased the likelihood of commenting in the manipulated space. The study concludes that false amplification (of the opinions that the manipulators promote) and false diminution (of general users’ political expressions) work in tandem to create a distorted opinion environment.</ab>
+        <pubtype>Academic journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>https://search.ebscohost.com/login.aspx?direct=true&amp;db=asn&amp;AN=157352335&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec></records>

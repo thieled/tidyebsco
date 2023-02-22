@@ -1,3 +1,12 @@
+# Eliminating 'no visible binding' note
+utils::globalVariables(c("value",
+                         ".",
+                         "name",
+                         "aug",
+                         "sug",
+                         "resultID"))
+
+
 
 #' Filter list elements by name
 #'
@@ -36,3 +45,21 @@ list_to_string <- function(x) {
 }
 
 
+
+
+#' Download and load an XML file from a given URL.
+#'
+#' This function downloads an XML file from a given URL, reads it into an R session using the xml2 package, and returns it as an R object.
+#'
+#' @param link a character string specifying the URL from which to download the XML file
+#'
+#' @return the XML data read into an R session
+#'
+#' @export
+load_file <- function(link){
+  temp <- tempfile()
+  utils::download.file(link, temp)
+  file <- utils::unzip(temp)
+  unlink(temp)
+  return(file)
+}
